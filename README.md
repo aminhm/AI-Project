@@ -1,2 +1,2 @@
-# AI Project
+# Machine Learning Regression with Python
  
